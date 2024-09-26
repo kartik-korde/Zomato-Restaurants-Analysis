@@ -10,7 +10,7 @@ Restaurant data of 9551 restaurants in 15+ countries from Zomato, stored and que
 **Interactive Dashboard:** 
 Visualizes essential KPIs such as average ratings, most popular cuisines, location-based restaurant performance, and pricing trends.
 
-**Real-Time Insights: **
+**Real-Time Insights:**
 Provides stakeholders with actionable insights to improve decision-making and business strategies.
 
 **Data Processing:** 
